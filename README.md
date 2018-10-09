@@ -8,5 +8,5 @@ writes the words of that message at random points on the console 10000 times.  L
 A devops engineer asked if I wanted to help him write a line of code or two.  So I did.  Probably wasn't what he was
 looking for.  ;-)
 
-This will currently run on Linux inside bash shells and on Macbooks inside bash or zsh.  Unix operability may vary.  Colours will totally depend on your console's capabilities. 
+This will currently run on Linux inside bash shells and on Macbooks inside bash or zsh.  Unix operability may vary.  Colours will totally depend on your console's capabilities.  Just a note that there's a visual difference between bash and zsh on Linux - on zsh the entire sentance is being printed in the same colour, and on Linux, it's each word.
 
